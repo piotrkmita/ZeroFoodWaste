@@ -24,35 +24,29 @@ API tłumaczy nazwy wpisanych składników na język angielski, co pozwala na wy
 https://cloud.google.com/translate/docs/reference/rest
 ```
 
-###Prezentacja aplikacji
+### Prezentacja aplikacji
+
 
 <img src="ghpscreenshots/start-page.png" style="max-width:100%;"/>
+<img src="ghpscreenshots/search-page.png" style="max-width:100%;"/>
+<img src="ghpscreenshots/search-page-results.png" style="max-width:100%;"/>
+<img src="ghpscreenshots/result.png" style="max-width:100%;"/>
+<img src="ghpscreenshots/edamam-page.png" style="max-width:100%;"/>
+
+## wersja 2
 
 
-```markdown
-Syntax highlighted code block
+![image](ghpscreenshots/start-page.png)
+![image](ghpscreenshots/search-page.png)
+![image](ghpscreenshots/search-page-results.png)
+![image](ghpscreenshots/result.png)
+![image](ghpscreenshots/edamam.png)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Wykonali
 
-1. Numbered
-2. List
+- Kamil Drążkiewicz
+- Piotr Kmita
+- Daniel Wrona
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/piotrkmita/ZeroFoodWaste/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
