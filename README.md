@@ -1,12 +1,33 @@
-## Welcome to GitHub Pages
+## Witaj na stronie produktu ZeroFoodWaste
 
-You can use the [editor on GitHub](https://github.com/piotrkmita/ZeroFoodWaste/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Aplikacja na celu zmniejsze ilości wyrzucanych produktów, przez proponowanie przepisów z 
+wykorzystaniem jak największej ilości ich. Wpisujemy nazwy składników (w dowolnym języku), które chcemy użyć,
+ a apliakcja pokazuje zdjęcie potrawy, wszystkie składniki i przepis.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Wykorzystane API
 
-### Markdown
+Aplikacja korzysta z dwóch API.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### EDAMAN API
+
+API po wysłaniu składników, które chcemy użyć zwraca dane dotyczące potraw - składniki, zdjęcie, link do przepisu, informacje o makro i microskładnikach.
+
+```
+https://developer.edamam.com/edamam-docs-recipe-api
+```
+
+### Cloud Translation API from Google
+
+API tłumaczy nazwy wpisanych składników na język angielski, co pozwala na wysłanie zapytanie do api z potrawami.
+
+```
+https://cloud.google.com/translate/docs/reference/rest
+```
+
+###Prezentacja aplikacji
+
+<img src="ghpscreenshots/start-page.png" style="max-width:100%;"/>
+
 
 ```markdown
 Syntax highlighted code block
