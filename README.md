@@ -8,7 +8,9 @@ wykorzystaniem jak największej ilości ich. Wpisujemy nazwy składników (w dow
 
 Aplikacja korzysta z dwóch API.
 
+
 #### EDAMAN API
+
 
 API po wysłaniu składników, które chcemy użyć zwraca dane dotyczące potraw - składniki, zdjęcie, link do przepisu, informacje o makro i microskładnikach.
 
