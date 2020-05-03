@@ -1,8 +1,11 @@
-## Witaj na stronie produktu ZeroFoodWaste
+## Witaj na stronie produktu [ZeroFoodWaste](https://bai-studia.firebaseapp.com/)
 
 Aplikacja na celu zmniejsze ilości wyrzucanych produktów, przez proponowanie przepisów z 
 wykorzystaniem jak największej ilości ich. Wpisujemy nazwy składników (w dowolnym języku), które chcemy użyć,
- a apliakcja pokazuje zdjęcie potrawy, wszystkie składniki i przepis.
+ a apliakcja pokazuje zdjęcie potrawy, wszystkie składniki i przepis. Istnieje również możliwość stworzenia swojego konta.
+ 
+[ZeroFoodWaste](https://bai-studia.firebaseapp.com/)
+ 
 
 ### Wykorzystane API
 
@@ -35,15 +38,6 @@ https://cloud.google.com/translate/docs/reference/rest
 <img src="ghpscreenshots/result.png" style="max-width:100%;"/>
 <img src="ghpscreenshots/edamam-page.png" style="max-width:100%;"/>
 
-## wersja 2
-
-
-![image](ghpscreenshots/start-page.png)
-![image](ghpscreenshots/search-page.png)
-![image](ghpscreenshots/search-page-results.png)
-![image](ghpscreenshots/result.png)
-![image](ghpscreenshots/edamam.png)
-
 
 ### Wykonali
 
@@ -51,4 +45,8 @@ https://cloud.google.com/translate/docs/reference/rest
 - Piotr Kmita
 - Daniel Wrona
 
-
+### Linki do składowych projektu
+- [Aplikacja](https://bai-studia.firebaseapp.com/)
+- [Github project](https://github.com/piotrkmita/ZeroFoodWaste)
+- [Edamam Api](https://developer.edamam.com/edamam-docs-recipe-api)
+- [Cloud Translation API from Google](https://cloud.google.com/translate/docs/reference/rest)
