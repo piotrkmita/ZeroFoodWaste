@@ -32,7 +32,7 @@ export default new Vuex.Store({
          connect() {
             var method = 'GET';
             var text = "kurczak,czosnek"; //TODO z pola do wpisywania
-            var URL = `https://translation.googleapis.com/language/translate/v2?key=AIzaSyCl-ODcT4cmDwsqry5be0X-1MTj-L0607k&target=en&q=${text}`;
+            var URL = `https://translation.googleapis.com/language/translate/v2?key=AIzaSyAG7F0X75CfzUVKoU4kPgrhTWypdeAZSVQ&target=en&q=${text}`;
             var xhr = new XMLHttpRequest();
             xhr.open(method, URL, true);
             xhr.onreadystatechange = function () {
